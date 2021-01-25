@@ -1,6 +1,9 @@
 # user_data
 
-A new Flutter project.
+add userdata to list 
+show userlist and detail
+Using Python Flask as API
+DigitaloceanCloud
 
 ## Getting Started
 
